@@ -1,0 +1,2 @@
+add this file to test grep.
+I hope use frep command to search string.
